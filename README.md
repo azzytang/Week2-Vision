@@ -4,3 +4,4 @@
 - Cyrill Stachniss Youtube Channel: https://www.youtube.com/watch?v=nRVuLFQ_Bng
 - MIT Visual Navigation Course (may be too advanced): https://vnav.mit.edu/ 
 # Week2-Vision
+# Week2-Vision
